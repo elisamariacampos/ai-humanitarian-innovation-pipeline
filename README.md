@@ -1,9 +1,10 @@
 <p align="center">
   <img src="https://github.com/elisamariacampos/ai-humanitarian-innovation-pipeline/blob/main/ainews.jpg" width="100%">
 </p>
+
 ## Social & Humanitarian Innovation Monitoring
 
-`Overview` 🌍🚀  
+## System Overview 🌍🚀  
 
 Monitoring global social and humanitarian innovation at scale requires continuous tracking of UN agencies, international innovation awards, impact funds, and major global media outlets.
 
@@ -65,7 +66,7 @@ It combines **automation + human editorial control**, ensuring scalability witho
 
 ## Mission
 
-To build a scalable editorial automation infrastructure focused on social innovation, humanitarian impact, and global development intelligence.
+To build a scalable editorial automation infrastructure focused on information management, humanitarian impact, and global development intelligence.
 <p align="center">
   <img src="https://github.com/elisamariacampos/ai-humanitarian-innovation-pipeline/blob/main/author.png" width="100%">
 </p>
